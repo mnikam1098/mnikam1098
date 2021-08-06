@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Monika Nikam
 - 👀 I’m interested in Data analysis.
-- 🌱 I’m currently learning Software skill
--
+- 🌱 I’m currently learning Software skil
 - 📫 How to reach me by email monikadnikam1998@gmail.com
 
 <!---
