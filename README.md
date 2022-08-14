@@ -4,7 +4,7 @@ About: Prediction of Loan Eligibility
 Data Description: The source of the data is kaggle.com. This loan data contains 614 rows and 13 columns. In this data there are various eligibility criteria are given like, Gender, Education, Dependents, Loan Amount, etc.
 
 Tools and Technology Used:
-Python and tableau
+Python 
 
 Jupyter Notebook
 
